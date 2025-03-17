@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    }
+h1{
+    text-align:center;
+    font-family: Verdana;
+    font-weight: Normal;   
+    color: white;
+    }
+.downtxt{
+    color: red;
+    font-weight: 300;
+    font-size: 16px;
+    text-align: center;
+//    border-style: solid;
+  //  border-width: 5px;
+    //border-color: white;
+    }
+.downtxt a{
+    color: Aquamarine;
+    font-weight: 300;
+    font-size: 16px;
+    text-align: center;
+}
+#smalltxt{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+.vid{
+    text-align: center;    
+    }
+
+h2, h3{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+h4{
+    text-align: right;
+    color:gray;
+    }
+
+
+
+
